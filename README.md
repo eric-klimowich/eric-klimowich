@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourUserName&layout=compact)](https://github.com/yourUserName/github-readme-stats)
+
 ![eric-klimowich's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-klimowich)
 
 <!--
